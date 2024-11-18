@@ -1,0 +1,10 @@
+El programa correrá en OnlineGDB haciendo copy paste al código - https://www.onlinegdb.com/online_c++_compiler#
+
+El menú:
+-Usará solamente el 1, el 2 y el 0.
+
+Para rentar:
+- Utilizará del 1 al 10 para escoger las películas o 0 para terminar y repetir el programa.
+
+Para devolver:
+- Si tiene películas rentadas utilizará el número que indique la película que quiere devilver (1 al 10) o 0 para terminar y repetir el programa.
