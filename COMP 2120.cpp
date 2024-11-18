@@ -106,7 +106,7 @@ int main() {
 			}
 		}
 		else {
-			cout << endl << "Escribió algo incorrecto . Será devuelto al principio." << endl;
+			cout << endl << "Escribió algo incorrecto. Será devuelto al principio." << endl;
 		}
 		cout << endl;
 	}
